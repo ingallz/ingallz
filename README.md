@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=duchuys31&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 413px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchuys31&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 525px;" />
 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ingalls31&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="height: 375px;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ingallz&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="height: 375px;" />
  
 
 <!-- ## 🏆 GitHub Trophies
